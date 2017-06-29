@@ -1,0 +1,22 @@
+# =============== #
+# Unity generated #
+# =============== #
+RetirementQ/Library/
+RetirementQ/Temp/
+RetirementQ/UWP/
+
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+RetirementQ/ExportedObj/
+RetirementQ/obj/
+*.svd
+*.userprefs
+RetirementQ/*.csproj
+*.pidb
+*.suo
+RetirementQ/*.sln
+*.user
+*.unityproj
+*.booproj
